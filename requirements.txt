@@ -1,0 +1,25 @@
+
+torch>=1.8.0
+torchaudio>=0.8.0
+
+# Audio Spectrogram Transformer backbone
+timm>=0.4.5
+
+# Numerical / scientific
+numpy>=1.20
+scipy>=1.6
+scikit-learn>=0.24
+
+# Audio I/O & processing
+librosa>=0.9
+soundfile>=0.11
+
+# Hugging Face (AST feature extractor)
+transformers>=4.20
+
+# Visualization
+matplotlib>=3.4
+
+# Utilities
+tqdm>=4.60
+pandas>=1.3

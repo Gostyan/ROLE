@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & caches (large, not tracked)
+cache/
+data/ESC-50*/
+data/FSDKaggle*/
+data/NSynth*/
+data/UrbanSound*/
+data/BirdCLEF*/
+data/VoxCeleb*/
+data/musan*/
+data/RIRS_NOISES/
+*.pkl
+*.pt
+*.pth
+*.h5
+
+# Results (can be reproduced)
+results/
+logs/
+
+# Env
+.env
+*.env
+venv/
+env/
+dataset_env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
