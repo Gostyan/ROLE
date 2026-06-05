@@ -91,7 +91,8 @@ Results are saved to `results/full_benchmark/<method>_<ratio>_<timestamp>.json`.
 | Episodes per condition | 300 x 5 folds = 1500 |
 
 ## Citation
+```
 Tianyan Deng, Yanxiong Li, Rui Gao, Jiahao Du, “Few-Shot Open-Set Audio Classification via Transductive Prototype Refinement and Class Logit Enhancement” Proc. of The 16th IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC 2026), Wuhan, China, 2026.
-
+```
 
 Tianyan Deng (202330400581@mail.scut.edu.cn), Yanxiong Li (eeyxli@scut.edu.cn)
